@@ -1,12 +1,3 @@
-I've split the top level directories to the 4 main functional areas - Hardware, Firmware, MobileApp and Backend. 
-
-Please start using the repository and put your code into the appropriate directories. When you do so, please create a subdirectory container (for example, Android subdirectory in MobileApp, and add your code there, or create PHP and SQL directories for the PHP and SQL creation scripts respectively). 
-
-Thanks,
-Sridhar
-
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
 * Quick summary
@@ -15,7 +6,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###
 
-* Summary of set up
+* Summary of set up - The top level has been split into four main functional areas - Hardware, Firmware, MobileApp and Backend. Place your code into the appropriate subdirectories, and please create a subdirectory container for your code. For example, add an Android subdirectory under MobileApp and add your code there, or create PHP and SQL subdirectories, and place your PHP and SQL creation scripts in their respective locations.
 * Configuration
 * Dependencies
 * Database configuration
