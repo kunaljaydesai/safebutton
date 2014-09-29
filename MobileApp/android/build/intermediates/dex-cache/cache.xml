@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/pre-dexed/debug/classes-1858ffc4ea69944db6368a081654b6f39ddbcd23.jar"
+        jar="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/5.0.77/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/pre-dexed/debug/classes-d53b2097c59e5ff1ce6cb2972e1865655b33f70a.jar"
+        jar="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-49e869c097be2b5e5c5d0ae0a94fb9b893836da8.jar"
+        jar="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/pre-dexed/debug/classes-10b06d631e89a5b55d988f51bc7b1b4ff4d44847.jar"
+        jar="/Users/KunalDesai/AndroidStudioProjects/angelhacks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+
+</pre-dex-items>
