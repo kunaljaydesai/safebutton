@@ -59,7 +59,7 @@ else{
 <h1>Safebutton</h1>
 <form action="login.php" method="post">
 <input type="text" name="username"><br>
-<input type="text" name="password"><br>
+<input type="password" name="password"><br>
 <input type="submit">
 </form>
 
